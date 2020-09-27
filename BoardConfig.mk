@@ -143,3 +143,6 @@ TARGET_LD_SHIM_LIBS := /system/lib/libshowlogo.so|libshim_showlogo.so
 BOARD_VNDK_VERSION := current
 PRODUCT_EXTRA_VNDK_VERSIONS := 28
 
+#Build Dup Rules
+BUILD_BROKEN_DUP_RULES := true
+
