@@ -1,4 +1,4 @@
-# PixyOS
+# POSP
 
 The Realme U1 (codenames _"RMX1831"_ and _"RMX1833"_ ) is a mid-range smartphone from Realme, announced in November 2018.
 
